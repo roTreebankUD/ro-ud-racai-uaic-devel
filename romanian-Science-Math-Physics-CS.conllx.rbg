@@ -3871,8 +3871,8 @@
 9	plasate	plasa	VPPF	Vmp--pf	_	8	acl	_	_
 10	oriunde	oriunde	R	Rgp	_	9	advmod	_	_
 11	în	în	S	Spsa	_	12	case	_	_
-12	interiorul	interior	NSRY	Ncmsry	_	9	nmod	_	_
-13	ciclului	ciclu	NSOY	Ncmsoy	_	12	nmod	_	_
+12	interiorul	interior	NSRY	Ncmsry	_	11	mwe	_	_
+13	ciclului	ciclu	NSOY	Ncmsoy	_	9	nmod	_	_
 14	.	.	PERIOD	PERIOD	_	1	punct	_	_
 
 1	Orice	orice	PI	Di3--r---e	_	2	det	_	_
@@ -4153,7 +4153,7 @@
 6	același	același	DMSR	Dd3msr---e	_	7	det	_	_
 7	nivel	nivel	NSN	Ncms-n	_	4	nmod	_	_
 8	cu	cu	S	Spsa	_	9	case	_	_
-9	funcția	funcție	NSRY	Ncfsry	_	4	nmod	_	_
+9	funcția	funcție	NSRY	Ncfsry	_	7	nmod	_	_
 10	main	main	NN	Nc	_	9	nmod	_	_
 11	.	.	PERIOD	PERIOD	_	4	punct	_	_
 
@@ -4562,8 +4562,8 @@
 25	cunoscute	cunoaște	VPPF	Vmp--pf	_	16	parataxis	_	_
 26	numai	numai	R	Rgp	_	28	advmod	_	_
 27	în	în	S	Spsa	_	28	case	_	_
-28	interiorul	interior	NSRY	Ncmsry	_	25	nmod	_	_
-29	funcției	funcție	NSOY	Ncfsoy	_	28	nmod	_	_
+28	interiorul	interior	NSRY	Ncmsry	_	27	mwe	_	_
+29	funcției	funcție	NSOY	Ncfsoy	_	25	nmod	_	_
 30	în	în	S	Spsa	_	31	case	_	_
 31	care	care	RELR	Pw3--r	_	33	nmod	_	_
 32	sunt	fi	VA3P	Vaip3p	_	33	auxpass	_	_
@@ -4580,7 +4580,7 @@
 8	mult	mult	R	Rgp	_	9	advmod	_	_
 9	mai	mai	R	Rp	_	10	advmod	_	_
 10	scurtă	scurt	ASN	Afpfsrn	_	0	ROOT	_	_
-11	ca	ca	RC	Rc	_	13	advmod	_	_
+11	ca	ca	S	Spsa	_	13	case	_	_
 12	a	al	TS	Tsfs	_	13	det	_	_
 13	variabilelor	variabilă	NPOY	Ncfpoy	_	10	nmod	_	_
 14	externe	extern	APN	Afpfp-n	_	13	amod	_	_
@@ -4629,7 +4629,7 @@
 17	altor	alt	PI	Di3-po---e	_	18	det	_	_
 18	funcții	funcție	NPN	Ncfp-n	_	14	nmod	_	_
 19	(	(	LPAR	LPAR	_	22	punct	_	_
-20	ca	ca	RC	Rc	_	22	advmod	_	_
+20	ca	ca	S	Spsa	_	22	case	_	_
 21	în	în	S	Spsa	_	22	case	_	_
 22	Pascal	Pascal	NP	Np	_	14	nmod	_	_
 23	)	)	RPAR	RPAR	_	22	punct	_	_
@@ -4733,7 +4733,7 @@
 11	,	,	COMMA	COMMA	_	8	punct	_	_
 12	float	float	NN	Nc	_	8	conj	_	_
 13	,	,	COMMA	COMMA	_	8	punct	_	_
-14	etc.	etc.	Y	Yr	_	8	punct	_	_
+14	etc.	etc.	Y	Yr	_	8	conj	_	_
 
 1	O	un	TSR	Tifsr	_	2	det	_	_
 2	clasă	clasă	NSRN	Ncfsrn	_	3	nsubj	_	_
@@ -5433,7 +5433,7 @@
 13	în	în	S	Spsa	_	14	case	_	_
 14	instrucțiune	instrucțiune	NSRN	Ncfsrn	_	10	nmod	_	_
 15	,	,	COMMA	COMMA	_	18	punct	_	_
-16	ca	ca	RC	Rc	_	18	advmod	_	_
+16	ca	ca	S	Spsa	_	18	case	_	_
 17	o	un	TSR	Tifsr	_	18	det	_	_
 18	constantă	constantă	NSRN	Ncfsrn	_	10	nmod	_	_
 19	de	de	S	Spsa	_	21	case	_	_
@@ -5584,7 +5584,7 @@
 11	sunt	fi	VA3P	Vaip3p	_	12	cop	_	_
 12	pierduți	pierde	VPPM	Vmp--pm	_	0	ROOT	_	_
 13	,	,	COMMA	COMMA	_	16	punct	_	_
-14	ca	ca	RC	Rc	_	16	advmod	_	_
+14	ca	ca	S	Spsa	_	16	case	_	_
 15	în	în	S	Spsa	_	16	case	_	_
 16	cazul	caz	NSRY	Ncmsry	_	12	nmod	_	_
 17	deplasărilor	deplasare	NPOY	Ncfpoy	_	16	nmod	_	_
