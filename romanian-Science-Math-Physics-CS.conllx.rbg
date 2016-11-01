@@ -3870,7 +3870,7 @@
 8	ieșiri	ieșire	NPN	Ncfp-n	_	4	nmod	_	_
 9	plasate	plasa	VPPF	Vmp--pf	_	8	acl	_	_
 10	oriunde	oriunde	R	Rgp	_	9	advmod	_	_
-11	în	în	S	Spsa	_	12	case	_	_
+11	în	în	S	Spsa	_	13	case	_	_
 12	interiorul	interior	NSRY	Ncmsry	_	11	mwe	_	_
 13	ciclului	ciclu	NSOY	Ncmsoy	_	9	nmod	_	_
 14	.	.	PERIOD	PERIOD	_	1	punct	_	_
@@ -4103,7 +4103,7 @@
 14	:	:	COLON	COLON	_	2	punct	_	_
 
 1	astfel	astfel	R	Rgp	_	6	advmod	_	_
-2	mai	mai	R	Rp	_	3	advmod	_	_
+2	mai	mai	R	Rp	_	6	advmod	_	_
 3	întâi	întâi	R	Rgp	_	2	mwe	_	_
 4	se	sine	PXA	Px3--a--------w	_	6	expl:pass	_	_
 5	vor	vrea	VA3P	Va--3p	_	6	aux	_	_
@@ -4562,7 +4562,7 @@
 25	cunoscute	cunoaște	VPPF	Vmp--pf	_	16	parataxis	_	_
 26	numai	numai	R	Rgp	_	28	advmod	_	_
 27	în	în	S	Spsa	_	28	case	_	_
-28	interiorul	interior	NSRY	Ncmsry	_	27	mwe	_	_
+28	interiorul	interior	NSRY	Ncmsry	_	25	mwe	_	_
 29	funcției	funcție	NSOY	Ncfsoy	_	25	nmod	_	_
 30	în	în	S	Spsa	_	31	case	_	_
 31	care	care	RELR	Pw3--r	_	33	nmod	_	_
@@ -4714,10 +4714,10 @@
 11	de	de	S	Spsa	_	12	case	_	_
 12	tipuri	tip	NPN	Ncfp-n	_	10	nmod	_	_
 13	primitive	primitiv	APN	Afpfp-n	_	12	amod	_	_
-14	(	(	LPAR	LPAR	_	14	punct	_	_
+14	(	(	LPAR	LPAR	_	15	punct	_	_
 15	sau	sau	C	Ccssp	_	13	cc	_	_
 16	predefinite	predefinit	APN	Afpfp-n	_	13	conj	_	_
-17	)	)	RPAR	RPAR	_	14	punct	_	_
+17	)	)	RPAR	RPAR	_	15	punct	_	_
 18	.	.	PERIOD	PERIOD	_	5	punct	_	_
 
 1	Astfel	astfel	R	Rgp	_	4	advmod	_	_
@@ -4813,7 +4813,7 @@
 2	de	de	S	Spsa	_	3	case	_	_
 3	memorare	memorare	NSRN	Ncfsrn	_	1	nmod	_	_
 4	arată	arăta	V3	Vmip3	_	0	ROOT	_	_
-5	când	când	R	Rw	_11	advmod	_	_
+5	când	când	R	Rw	_	11	advmod	_	_
 6	,	,	COMMA	COMMA	_	5	punct	_	_
 7	cum	cum	R	Rw	_	5	conj	_	_
 8	și	și	CR	Crssp	_	5	cc	_	_
